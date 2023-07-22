@@ -39,7 +39,7 @@ def battle(jedi, sith):
     else:
         print(f"{sith.name} has won the battle!")
 
-# Example Usage
+# Example Usage Game
 jedi = Jedi("Obi-Wan Kenobi", 100, 20, 40)
 sith = Sith("Darth Vader", 150, 30, 60)
 
